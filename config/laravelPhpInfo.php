@@ -12,7 +12,7 @@ return [
     'laravelPhpInfoBladeExtended'   => 'layouts.app',
 
     // Enable `auth` middleware
-    'authEnabled'                   => true,
+    'authEnabled'                   => false,
 
     // Enable Optional Roles Middleware
     'rolesEnabled'                  => false,
