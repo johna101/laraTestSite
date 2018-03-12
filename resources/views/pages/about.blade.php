@@ -9,7 +9,7 @@
 
                 <div class="card-body">
 
-                    This is the about page
+                    This is the about page blbblablba
 
                 </div>
             </div>
